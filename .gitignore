@@ -2,7 +2,7 @@
 /tmp
 /cache
 myenv/
-
+saved_models/
 
 
 /run_information.json

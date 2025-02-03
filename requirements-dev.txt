@@ -6,3 +6,5 @@ dagshub
 dvc
 lightgbm
 joblib
+fastapi
+streamlit
